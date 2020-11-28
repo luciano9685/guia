@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV JUSTICA SD">
+    <display-name lang="pt">TV JUSTICA SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS SD">
+    <display-name lang="pt">BAND SPORTS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="USL- TNT  HD">
+    <display-name lang="pt">USL- TNT  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY JR HD">
+    <display-name lang="pt">DISNEY JR HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
